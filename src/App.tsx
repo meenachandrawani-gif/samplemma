@@ -13,6 +13,7 @@ import Pricing from './components/Pricing';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import ParticlesBackground from './components/ParticlesBackground';
+import AIChatButton from './components/AIChatButton';
 
 export default function App() {
   const [isDark, setIsDark] = useState(true);
@@ -48,6 +49,8 @@ export default function App() {
         
         <Footer />
       </div>
+      
+      <AIChatButton />
     </div>
   );
 }
