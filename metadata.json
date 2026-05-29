@@ -1,0 +1,6 @@
+{
+  "name": "AuraNest",
+  "description": "A luxury home decor and smart lighting company landing page with a modern, futuristic design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
